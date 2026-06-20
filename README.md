@@ -1,2 +1,14 @@
 # manguan-cn-guide
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
